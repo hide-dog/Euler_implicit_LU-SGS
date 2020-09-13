@@ -4,9 +4,9 @@ sod,t=0.2.csv：0.2sにおけるsodの衝撃波の結果
 
 scatter_kakunin.py：sodの衝撃波結果との比較コード
 
-FVM(FVS,muscl)_in_LDU.jl：juliaの解析コード
+sod(FVS,muscl)_im_LU-SGS.jl：juliaの解析コード
 
-FVM(FVS,t(2nd),muscl)_in_LDU.py：pythonの解析コード
+sod(FVS,muscl)_im_LU-SGS.py：pythonの解析コード
 
 ・使い方
 
