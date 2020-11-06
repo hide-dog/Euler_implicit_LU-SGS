@@ -15,3 +15,6 @@ sod(FVS,muscl)_im_LU-SGS.py：pythonの解析コード
 2 scatter_kakunin.pyとsod,t=0.2.csvを結果フォルダ内に置く
 
 3 scatter_kakunin.pyを実行すると解析結果と比較した画像が出力される
+
+  
+This software is released under the MIT License, see LICENSE.
